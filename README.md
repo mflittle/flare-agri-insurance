@@ -1,7 +1,5 @@
 # Agricultural Weather Insurance Framework for Kentucky Farmers
 
-![Agricultural Insurance Banner](https://via.placeholder.com/1200x300?text=Agricultural+Weather+Insurance)
-
 ## Project Overview
 
 This project implements a blockchain-based parametric weather insurance platform for Kentucky farmers using Flare Network's decentralized oracle capabilities. The system automatically triggers payouts based on weather data from NOAA, eliminating the need for traditional claims processing and providing farmers with financial protection against extreme weather events.
@@ -43,25 +41,17 @@ This project consists of three integrated components:
 
 This project leverages several key Flare Network technologies:
 
-### Flare Time Series Oracle (FTSO)
-
-- Used for retrieving reliable timestamp data to validate weather events
-- Ensures trustworthy timing for policy activation and expiration
-
 ### Flare Data Connector (FDC)
-
 - Core functionality for weather data attestation
 - Connects the smart contracts with external NOAA weather data sources
-- Files: `contracts/Helpers.sol` and `scripts/star-wars-api.js` demonstrate the implementation
+- Files: `scripts/prepare-fdc-attestation.js` and `scripts/submit-fdc-attestation.js` demonstrate the implementation
 
 ### EVMTransaction Verification 
-
 - Validates the authenticity of weather data submissions
 - Ensures only authorized and valid weather events trigger payouts
 - Implementation in `contracts/AgriculturalWeatherInsurance.sol` (function `submitWeatherData()`)
 
 ### Data Availability Layer
-
 - Stores proofs of weather events for transparency and auditability
 - Implemented in `scripts/get-fdc-proof-v2.js`
 
@@ -78,8 +68,8 @@ This project leverages several key Flare Network technologies:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/agri-insurance-flare.git
-   cd agri-insurance-flare
+   git clone https://github.com/yourusername/flare-agri-insurance.git
+   cd flare-agri-insurance
    ```
 
 2. Install smart contract dependencies:
@@ -166,3 +156,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - NOAA for weather data access
 - Kentucky Department of Agriculture for county farming data
 
+## Specific Flare Integration Files
+
+1. **Contract Interactions with Flare**:
+   * `contracts/AgriculturalWeatherInsurance.sol` - Contains the `submitWeatherData` function that validates weather data using Flare's EVMTransaction verification
+
+2. **Data Attestation Scripts**:
+   * `scripts/prepare-fdc-attestation.js` - Prepares the attestation request for Flare's Data Connector
+   * `scripts/submit-fdc-attestation.js` - Submits weather data to Flare's network for validation
+   * `scripts/get-fdc-proof-v2.js` - Retrieves proof from Flare's Data Availability Layer
+
+3. **End-to-End Flow**:
+   * `scripts/end-to-end-fdc-test.js` - Demonstrates the complete flow from data submission to proof verification
+
+4. **User Interface Integration**:
+   * `agri-insurance-ui/src/services/ContractService.js` - Contains the frontend integration with Flare-verified data
