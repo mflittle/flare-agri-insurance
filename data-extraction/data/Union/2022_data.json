@@ -1,0 +1,3473 @@
+{
+  "year": 2022,
+  "totalRecords": 343,
+  "data": {
+    "timelines": [
+      {
+        "timestep": "1d",
+        "startTime": "2022-01-01T00:00:00Z",
+        "endTime": "2022-12-31T23:59:59Z",
+        "intervals": [
+          {
+            "startTime": "2022-01-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.6,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 23,
+              "precipitationIntensity": 1.6,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 34,
+              "temperatureMin": 19,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 32,
+              "temperatureMin": 21,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 22,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 21,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 21,
+              "temperatureMin": 5,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 21,
+              "temperatureMin": 8,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 17,
+              "precipitationIntensity": 1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 17,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 21,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 35,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0.1
+            }
+          },
+          {
+            "startTime": "2022-01-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 32,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 49,
+              "temperatureMin": 16,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 25,
+              "temperatureMin": 16,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 27,
+              "temperatureMin": 12,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 34,
+              "temperatureMin": 11,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 36,
+              "temperatureMin": 11,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 10,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 34,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 34,
+              "temperatureMin": 9,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": 9,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-01-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 19,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 33,
+              "temperatureMin": 14,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.45,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0.85,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 29,
+              "temperatureMin": 19,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 25,
+              "temperatureMin": 13,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 27,
+              "temperatureMin": 13,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 21,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0.11,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 15,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 20,
+              "temperatureMin": 15,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 15,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 21,
+              "precipitationIntensity": 2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 35,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 34,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 34,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0.9,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-02-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 50,
+              "precipitationIntensity": 2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0.2
+            }
+          },
+          {
+            "startTime": "2022-03-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 33,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 44,
+              "precipitationIntensity": 1.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0.33,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 51,
+              "precipitationIntensity": 1.3,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 49,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 49,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-03-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.75,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 38,
+              "precipitationIntensity": 1.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-04-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0.44,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0.11,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0.45,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-05-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0.65,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 95,
+              "temperatureMin": 79,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 98,
+              "temperatureMin": 78,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 98,
+              "temperatureMin": 78,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 73,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 96,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 97,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-06-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 99,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 98,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 97,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 98,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 95,
+              "temperatureMin": 74,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 98,
+              "temperatureMin": 78,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 97,
+              "temperatureMin": 75,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 73,
+              "precipitationIntensity": 0.95,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 73,
+              "precipitationIntensity": 1.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 97,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 95,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 68,
+              "precipitationIntensity": 2.6,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 97,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 96,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0.75,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 72,
+              "precipitationIntensity": 2.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 96,
+              "temperatureMin": 74,
+              "precipitationIntensity": 0.12,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-07-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 67,
+              "precipitationIntensity": 2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 72,
+              "precipitationIntensity": 1.6,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 73,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 74,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 96,
+              "temperatureMin": 74,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 74,
+              "precipitationIntensity": 0.44,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-08-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0.85,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 96,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0.3,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-09-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.8,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-10-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-02T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-03T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-05T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0.3,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-06T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-20T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0.3,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 49,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-11-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0.55,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-02T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 44,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 34,
+              "precipitationIntensity": 1.35,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-16T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 44,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 33,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 36,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 38,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 47,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": -5,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 2.5
+            }
+          },
+          {
+            "startTime": "2022-12-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 7,
+              "temperatureMin": -6,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 20,
+              "temperatureMin": 4,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 22,
+              "temperatureMin": 9,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0.5
+            }
+          },
+          {
+            "startTime": "2022-12-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 22,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 2
+            }
+          },
+          {
+            "startTime": "2022-12-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 38,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2022-12-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0.3,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "stationsUsed": [
+    {
+      "id": "GHCND:USC00158197",
+      "name": "UNIONTOWN DAM 49, KY US",
+      "latitude": 37.76667,
+      "longitude": -87.95,
+      "datacoverage": 0.9979
+    },
+    {
+      "id": "GHCND:USC00155569",
+      "name": "MORGANFIELD 12 SE, KY US",
+      "latitude": 37.5827,
+      "longitude": -87.8577,
+      "datacoverage": 0.9794
+    },
+    {
+      "id": "GHCND:USC00128967",
+      "name": "J.T. MYERS LOCKS AND DAM, KY US",
+      "latitude": 37.7952,
+      "longitude": -87.993,
+      "datacoverage": 0.9586
+    }
+  ],
+  "stationsCombined": {
+    "method": "Averaged values from multiple stations with data quality weighting",
+    "stationCount": 3,
+    "combinedDate": "2025-04-06T17:41:45.874Z"
+  }
+}

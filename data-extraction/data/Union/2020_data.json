@@ -1,0 +1,3063 @@
+{
+  "year": 2020,
+  "totalRecords": 302,
+  "data": {
+    "timelines": [
+      {
+        "timestep": "1d",
+        "startTime": "2020-01-01T00:00:00Z",
+        "endTime": "2020-12-31T23:59:59Z",
+        "intervals": [
+          {
+            "startTime": "2020-01-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.48,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 47,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.7,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 49,
+              "precipitationIntensity": 2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 36,
+              "precipitationIntensity": 1.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 44,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 28,
+              "temperatureMin": 17,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 23,
+              "temperatureMin": 16,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 32,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 36,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 32,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 38,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0.13,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-01-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0.07,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0.7,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 38,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.6,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 35,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 36,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0.7,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 38,
+              "temperatureMin": 33,
+              "precipitationIntensity": 1.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 38,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0.08,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 19,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 19,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 49,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0.33,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 49,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 44,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-02-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0.7,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 47,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0.8,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 47,
+              "temperatureMin": 22,
+              "precipitationIntensity": 0.8,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 39,
+              "precipitationIntensity": 1.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0.9,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0.18,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 57,
+              "precipitationIntensity": 1.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-03-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.08,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.29,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0.41,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0.86,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0.06,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-04-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0.45,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0.64,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0.12,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0.11,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0.62,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.12,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0.8,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0.45,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 60,
+              "precipitationIntensity": 1.35,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0.07,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0.06,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0.7,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-05-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 95,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0.64,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 71,
+              "precipitationIntensity": 1.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 69,
+              "precipitationIntensity": 1.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-06-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 70,
+              "precipitationIntensity": 1.6,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 67,
+              "precipitationIntensity": 2.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0.75,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0.22,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 76,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 73,
+              "precipitationIntensity": 1.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0.06,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0.7,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-07-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0.33,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0.46,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 56,
+              "precipitationIntensity": 1.28,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.35,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 73,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0.25,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0.45,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.13,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0.04,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-08-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 70,
+              "precipitationIntensity": 1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0.07,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0.22,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0.6,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-09-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 50,
+              "precipitationIntensity": 1.73,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0.12,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0.35,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0.04,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 49,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.3,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 46,
+              "precipitationIntensity": 2.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 37,
+              "precipitationIntensity": 2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2020-10-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "stationsUsed": [
+    {
+      "id": "GHCND:USC00158197",
+      "name": "UNIONTOWN DAM 49, KY US",
+      "latitude": 37.76667,
+      "longitude": -87.95,
+      "datacoverage": 0.9979
+    },
+    {
+      "id": "GHCND:USC00155569",
+      "name": "MORGANFIELD 12 SE, KY US",
+      "latitude": 37.5827,
+      "longitude": -87.8577,
+      "datacoverage": 0.9794
+    },
+    {
+      "id": "GHCND:USC00128967",
+      "name": "J.T. MYERS LOCKS AND DAM, KY US",
+      "latitude": 37.7952,
+      "longitude": -87.993,
+      "datacoverage": 0.9586
+    }
+  ],
+  "stationsCombined": {
+    "method": "Averaged values from multiple stations with data quality weighting",
+    "stationCount": 3,
+    "combinedDate": "2025-04-06T17:39:42.282Z"
+  }
+}

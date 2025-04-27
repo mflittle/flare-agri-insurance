@@ -1,0 +1,633 @@
+{
+  "year": 2019,
+  "totalRecords": 59,
+  "data": {
+    "timelines": [
+      {
+        "timestep": "1d",
+        "startTime": "2019-01-01T00:00:00Z",
+        "endTime": "2019-12-31T23:59:59Z",
+        "intervals": [
+          {
+            "startTime": "2019-01-01T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.76,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-02T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-03T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-04T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-05T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.52,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-06T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-07T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-08T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.09,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-09T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-10T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-11T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-12T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.08,
+              "windSpeed": null,
+              "snowfall": 0.3
+            }
+          },
+          {
+            "startTime": "2019-01-13T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.41,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-14T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-15T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-16T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-17T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-18T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.18,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-19T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.38,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-20T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 1.14,
+              "windSpeed": null,
+              "snowfall": 3
+            }
+          },
+          {
+            "startTime": "2019-01-21T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0.2
+            }
+          },
+          {
+            "startTime": "2019-01-22T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-23T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.09,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-24T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.83,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-25T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-26T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0.2
+            }
+          },
+          {
+            "startTime": "2019-01-27T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-28T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-29T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.06,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-01-30T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 1.5
+            }
+          },
+          {
+            "startTime": "2019-01-31T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-01T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-02T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-03T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-04T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-05T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-06T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-07T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 2.23,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-08T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.86,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-09T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-10T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.08,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-11T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.97,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-12T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 2.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-13T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.24,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-14T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-15T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-16T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.64,
+              "windSpeed": null,
+              "snowfall": 0.4
+            }
+          },
+          {
+            "startTime": "2019-02-17T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-18T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-19T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-20T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 1.77,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-21T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-22T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.04,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-23T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0.24,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-24T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 2.18,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-25T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-26T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-27T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2019-02-28T00:00:00Z",
+            "values": {
+              "temperatureMax": null,
+              "temperatureMin": null,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "stationsUsed": [
+    {
+      "id": "GHCND:USC00151927",
+      "name": "CROFTON 3 N, KY US",
+      "latitude": 37.0855,
+      "longitude": -87.4986,
+      "datacoverage": 0.9937
+    },
+    {
+      "id": "GHCND:USW00013806",
+      "name": "FORT CAMPBELL ARMY AIR FIELD, KY US",
+      "latitude": 36.66667,
+      "longitude": -87.48333,
+      "datacoverage": 0.993
+    },
+    {
+      "id": "GHCND:US1KYCH0009",
+      "name": "OAK GROVE 4.6 NW, KY US",
+      "latitude": 36.71632,
+      "longitude": -87.48404,
+      "datacoverage": 0.992
+    }
+  ],
+  "stationsCombined": {
+    "method": "Averaged values from multiple stations with data quality weighting",
+    "stationCount": 3,
+    "combinedDate": "2025-04-06T17:26:55.289Z"
+  }
+}

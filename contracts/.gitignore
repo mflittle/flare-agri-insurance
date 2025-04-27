@@ -1,0 +1,7 @@
+# Hardhat
+artifacts/
+cache/
+typechain-types/
+
+# Secrets
+.env

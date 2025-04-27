@@ -1,0 +1,137 @@
+{
+  "generatedAt": "2025-04-06T21:35:32.283Z",
+  "counties": {
+    "Christian": {
+      "drought": {
+        "moderate": 5,
+        "severe": 7,
+        "extreme": 10
+      },
+      "heatWave": {
+        "moderate": 4,
+        "severe": 6,
+        "extreme": 8
+      },
+      "excessiveRain": {
+        "moderate": 3.7,
+        "severe": 4.7,
+        "extreme": 4.9
+      },
+      "wind": {
+        "moderate": 20.4,
+        "severe": 24.4,
+        "extreme": 28.5
+      }
+    },
+    "Union": {
+      "drought": {
+        "moderate": 6,
+        "severe": 9,
+        "extreme": 12
+      },
+      "heatWave": {
+        "moderate": 4,
+        "severe": 6,
+        "extreme": 7
+      },
+      "excessiveRain": {
+        "moderate": 3.1,
+        "severe": 8,
+        "extreme": 8.2
+      },
+      "wind": {
+        "moderate": 20.4,
+        "severe": 24.4,
+        "extreme": 28.5
+      }
+    },
+    "Todd": {
+      "drought": {
+        "moderate": 5,
+        "severe": 7,
+        "extreme": 9
+      },
+      "heatWave": {
+        "moderate": 4,
+        "severe": 6,
+        "extreme": 8
+      },
+      "excessiveRain": {
+        "moderate": 3.8,
+        "severe": 7.1,
+        "extreme": 7.3
+      },
+      "wind": {
+        "moderate": 20.4,
+        "severe": 24.4,
+        "extreme": 28.5
+      }
+    },
+    "Henderson": {
+      "drought": {
+        "moderate": 5,
+        "severe": 9,
+        "extreme": 11
+      },
+      "heatWave": {
+        "moderate": 3,
+        "severe": 6,
+        "extreme": 7
+      },
+      "excessiveRain": {
+        "moderate": 3.1,
+        "severe": 7,
+        "extreme": 7.2
+      },
+      "wind": {
+        "moderate": 20.4,
+        "severe": 24.4,
+        "extreme": 28.5
+      }
+    },
+    "Daviess": {
+      "drought": {
+        "moderate": 5,
+        "severe": 8,
+        "extreme": 11
+      },
+      "heatWave": {
+        "moderate": 3,
+        "severe": 6,
+        "extreme": 7
+      },
+      "excessiveRain": {
+        "moderate": 3.5,
+        "severe": 3.9,
+        "extreme": 4.1
+      },
+      "wind": {
+        "moderate": 21,
+        "severe": 23.5,
+        "extreme": 24.5
+      }
+    },
+    "Warren": {
+      "drought": {
+        "moderate": 5,
+        "severe": 7,
+        "extreme": 10
+      },
+      "heatWave": {
+        "moderate": 5,
+        "severe": 8,
+        "extreme": 9
+      },
+      "excessiveRain": {
+        "moderate": 3.9,
+        "severe": 6.1,
+        "extreme": 6.3
+      },
+      "wind": {
+        "moderate": 19.7,
+        "severe": 22.6,
+        "extreme": 23.6
+      }
+    }
+  }
+}

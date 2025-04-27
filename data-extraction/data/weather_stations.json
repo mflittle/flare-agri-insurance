@@ -1,0 +1,210 @@
+{
+  "Christian": [
+    {
+      "elevation": 163.1,
+      "mindate": "2008-01-01",
+      "maxdate": "2025-04-04",
+      "latitude": 37.0855,
+      "name": "CROFTON 3 N, KY US",
+      "datacoverage": 0.9937,
+      "id": "GHCND:USC00151927",
+      "elevationUnit": "METERS",
+      "longitude": -87.4986
+    },
+    {
+      "elevation": 174.7,
+      "mindate": "1950-04-08",
+      "maxdate": "1970-12-31",
+      "latitude": 36.66667,
+      "name": "FORT CAMPBELL ARMY AIR FIELD, KY US",
+      "datacoverage": 0.993,
+      "id": "GHCND:USW00013806",
+      "elevationUnit": "METERS",
+      "longitude": -87.48333
+    },
+    {
+      "elevation": 188.4,
+      "mindate": "2018-02-07",
+      "maxdate": "2025-04-04",
+      "latitude": 36.71632,
+      "name": "OAK GROVE 4.6 NW, KY US",
+      "datacoverage": 0.992,
+      "id": "GHCND:US1KYCH0009",
+      "elevationUnit": "METERS",
+      "longitude": -87.48404
+    }
+  ],
+  "Union": [
+    {
+      "elevation": 110,
+      "mindate": "1928-01-01",
+      "maxdate": "1974-03-31",
+      "latitude": 37.76667,
+      "name": "UNIONTOWN DAM 49, KY US",
+      "datacoverage": 0.9979,
+      "id": "GHCND:USC00158197",
+      "elevationUnit": "METERS",
+      "longitude": -87.95
+    },
+    {
+      "elevation": 161.8,
+      "mindate": "2005-07-01",
+      "maxdate": "2009-01-31",
+      "latitude": 37.5827,
+      "name": "MORGANFIELD 12 SE, KY US",
+      "datacoverage": 0.9794,
+      "id": "GHCND:USC00155569",
+      "elevationUnit": "METERS",
+      "longitude": -87.8577
+    },
+    {
+      "elevation": 103.6,
+      "mindate": "1992-03-01",
+      "maxdate": "2025-04-04",
+      "latitude": 37.7952,
+      "name": "J.T. MYERS LOCKS AND DAM, KY US",
+      "datacoverage": 0.9586,
+      "id": "GHCND:USC00128967",
+      "elevationUnit": "METERS",
+      "longitude": -87.993
+    }
+  ],
+  "Todd": [
+    {
+      "elevation": 203.9,
+      "mindate": "2007-06-01",
+      "maxdate": "2010-01-31",
+      "latitude": 36.92528,
+      "name": "SHARON GROVE, KY US",
+      "datacoverage": 1,
+      "id": "GHCND:USC00157300",
+      "elevationUnit": "METERS",
+      "longitude": -87.105
+    },
+    {
+      "elevation": 164.6,
+      "mindate": "2008-02-12",
+      "maxdate": "2025-04-04",
+      "latitude": 36.653418,
+      "name": "GUTHRIE 0.8 WNW, KY US",
+      "datacoverage": 0.9962,
+      "id": "GHCND:US1KYTD0002",
+      "elevationUnit": "METERS",
+      "longitude": -87.184011
+    },
+    {
+      "elevation": 170.7,
+      "mindate": "2018-04-03",
+      "maxdate": "2025-04-04",
+      "latitude": 36.694369,
+      "name": "TRENTON 2.3 SSW, KY US",
+      "datacoverage": 0.9289,
+      "id": "GHCND:US1KYTD0005",
+      "elevationUnit": "METERS",
+      "longitude": -87.284838
+    }
+  ],
+  "Henderson": [
+    {
+      "elevation": 115.8,
+      "mindate": "2023-10-01",
+      "maxdate": "2025-04-04",
+      "latitude": 37.776083,
+      "name": "HENDERSON 4.5 S, KY US",
+      "datacoverage": 0.9982,
+      "id": "GHCND:US1KYHS0010",
+      "elevationUnit": "METERS",
+      "longitude": -87.593815
+    },
+    {
+      "elevation": 115.8,
+      "mindate": "1928-01-01",
+      "maxdate": "2025-04-03",
+      "latitude": 37.9325,
+      "name": "NEWBURGH LOCK AND DAM, KY US",
+      "datacoverage": 0.9919,
+      "id": "GHCND:USC00126151",
+      "elevationUnit": "METERS",
+      "longitude": -87.3744
+    },
+    {
+      "elevation": 100.6,
+      "mindate": "1891-07-07",
+      "maxdate": "1949-12-31",
+      "latitude": 37.96667,
+      "name": "EVANSVILLE FORT COUR, KY US",
+      "datacoverage": 0.9699,
+      "id": "GHCND:USC00122733",
+      "elevationUnit": "METERS",
+      "longitude": -87.58333
+    }
+  ],
+  "Daviess": [
+    {
+      "elevation": 118.9,
+      "mindate": "2012-08-22",
+      "maxdate": "2025-04-04",
+      "latitude": 37.6883927732706,
+      "name": "OWENSBORO 4.9 S, KY US",
+      "datacoverage": 0.9948,
+      "id": "GHCND:US1KYDV0003",
+      "elevationUnit": "METERS",
+      "longitude": -87.1323329955339
+    },
+    {
+      "elevation": 122.8,
+      "mindate": "2011-10-01",
+      "maxdate": "2025-04-03",
+      "latitude": 37.75,
+      "name": "OWENSBORO DAVIESS CO REGIONAL AIRPORT, KY US",
+      "datacoverage": 0.9909,
+      "id": "GHCND:USW00053803",
+      "elevationUnit": "METERS",
+      "longitude": -87.16667
+    },
+    {
+      "mindate": "1897-02-01",
+      "maxdate": "1899-08-31",
+      "latitude": 37.8,
+      "name": "ENSOR, KY US",
+      "datacoverage": 0.9852,
+      "id": "GHCND:USC00152564",
+      "longitude": -86.98333
+    }
+  ],
+  "Warren": [
+    {
+      "elevation": 143,
+      "mindate": "1949-01-01",
+      "maxdate": "1962-03-31",
+      "latitude": 37.01667,
+      "name": "BOWLING GREEN SUBSTN, KY US",
+      "datacoverage": 0.9967,
+      "id": "GHCND:USC00150907",
+      "elevationUnit": "METERS",
+      "longitude": -86.43333
+    },
+    {
+      "elevation": 159.3,
+      "mindate": "1893-01-01",
+      "maxdate": "2025-04-03",
+      "latitude": 36.96467,
+      "name": "BOWLING GREEN WARREN CO AIRPORT, KY US",
+      "datacoverage": 0.9874,
+      "id": "GHCND:USW00093808",
+      "elevationUnit": "METERS",
+      "longitude": -86.42379
+    },
+    {
+      "elevation": 144.8,
+      "mindate": "1948-06-01",
+      "maxdate": "2025-04-04",
+      "latitude": 36.9987,
+      "name": "BOWLING GREEN, KY US",
+      "datacoverage": 0.9815,
+      "id": "GHCND:USC00150904",
+      "elevationUnit": "METERS",
+      "longitude": -86.4276
+    }
+  ]
+}

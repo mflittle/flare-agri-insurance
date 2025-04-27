@@ -1,0 +1,3693 @@
+{
+  "year": 2017,
+  "totalRecords": 365,
+  "data": {
+    "timelines": [
+      {
+        "timestep": "1d",
+        "startTime": "2017-01-01T00:00:00Z",
+        "endTime": "2017-12-31T23:59:59Z",
+        "intervals": [
+          {
+            "startTime": "2017-01-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0.3,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 22,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 25,
+              "temperatureMin": 14,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 23,
+              "temperatureMin": 12,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 20,
+              "temperatureMin": 5,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 25,
+              "temperatureMin": 6,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 44,
+              "temperatureMin": 12,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0.27,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.12,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.24,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0.54,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0.09,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 42,
+              "precipitationIntensity": 1.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 49,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 46,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 36,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-01-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 35,
+              "temperatureMin": 19,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 15,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 17,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0.19,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 19,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0.12,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0.42,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-02-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.07,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0.55,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0.68,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0.51,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 38,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0.11,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0.18,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0.06,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0.71,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0.08,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-03-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 45,
+              "precipitationIntensity": 1.24,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.06,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0.22,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0.04,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.56,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 65,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0.9,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0.2,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0.37,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 52,
+              "precipitationIntensity": 1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-04-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0.58,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 52,
+              "precipitationIntensity": 0.34,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0.21,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 47,
+              "precipitationIntensity": 1.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 43,
+              "precipitationIntensity": 1.96,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 45,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0.11,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 73,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.24,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0.38,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0.55,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-05-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 81,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.85,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0.71,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0.35,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.9,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 56,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-06-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0.13,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0.17,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.73,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 72,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0.04,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 97,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 98,
+              "temperatureMin": 76,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 99,
+              "temperatureMin": 78,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0.61,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0.81,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 93,
+              "temperatureMin": 71,
+              "precipitationIntensity": 0.14,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 74,
+              "precipitationIntensity": 1.71,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-07-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 65,
+              "precipitationIntensity": 1.4,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 70,
+              "precipitationIntensity": 0.41,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 94,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 69,
+              "precipitationIntensity": 0.71,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0.06,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0.08,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-08-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0.7,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 59,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 85,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 73,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 72,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 64,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0.64,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0.32,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 87,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 61,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 63,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0.93,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0.08,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 68,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 89,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 90,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 91,
+              "temperatureMin": 64,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 92,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 88,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 77,
+              "temperatureMin": 58,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 50,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-09-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 48,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 78,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 80,
+              "temperatureMin": 49,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 62,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 82,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 60,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 84,
+              "temperatureMin": 65,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 63,
+              "precipitationIntensity": 1.29,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 79,
+              "temperatureMin": 66,
+              "precipitationIntensity": 0.82,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 75,
+              "temperatureMin": 67,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 70,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0.49,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 83,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 86,
+              "temperatureMin": 57,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 53,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.1,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 41,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 76,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 67,
+              "temperatureMin": 51,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 51,
+              "precipitationIntensity": 1.18,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 46,
+              "precipitationIntensity": 0.11,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 61,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0.51,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-10-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0.07,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 71,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0.06,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 54,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 74,
+              "temperatureMin": 55,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 69,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0.26,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 47,
+              "precipitationIntensity": 0.12,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 44,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 39,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 44,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0.41,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0.39,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 27,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 60,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 63,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 66,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-11-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.05,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 58,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 62,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 68,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 59,
+              "temperatureMin": 37,
+              "precipitationIntensity": 1.5,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 23,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 34,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 18,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": 25,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 37,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 52,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 40,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 51,
+              "temperatureMin": 42,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 43,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 57,
+              "temperatureMin": 37,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 56,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 54,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0.91,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 7,
+              "precipitationIntensity": 0.03,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 31,
+              "temperatureMin": 7,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 26,
+              "temperatureMin": 7,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 26,
+              "temperatureMin": 6,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 26,
+              "temperatureMin": 7,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 28,
+              "temperatureMin": 11,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 27,
+              "temperatureMin": 9,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2017-12-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 27,
+              "temperatureMin": 9,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "stationsUsed": [
+    {
+      "id": "GHCND:US1KYHS0010",
+      "name": "HENDERSON 4.5 S, KY US",
+      "latitude": 37.776083,
+      "longitude": -87.593815,
+      "datacoverage": 0.9982
+    },
+    {
+      "id": "GHCND:USC00126151",
+      "name": "NEWBURGH LOCK AND DAM, KY US",
+      "latitude": 37.9325,
+      "longitude": -87.3744,
+      "datacoverage": 0.9919
+    },
+    {
+      "id": "GHCND:USC00122733",
+      "name": "EVANSVILLE FORT COUR, KY US",
+      "latitude": 37.96667,
+      "longitude": -87.58333,
+      "datacoverage": 0.9699
+    }
+  ],
+  "stationsCombined": {
+    "method": "Averaged values from multiple stations with data quality weighting",
+    "stationCount": 3,
+    "combinedDate": "2025-04-06T17:56:02.268Z"
+  }
+}

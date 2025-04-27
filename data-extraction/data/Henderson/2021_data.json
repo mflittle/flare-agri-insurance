@@ -1,0 +1,353 @@
+{
+  "year": 2021,
+  "totalRecords": 31,
+  "data": {
+    "timelines": [
+      {
+        "timestep": "1d",
+        "startTime": "2021-01-01T00:00:00Z",
+        "endTime": "2021-12-31T23:59:59Z",
+        "intervals": [
+          {
+            "startTime": "2021-01-01T00:00:00Z",
+            "values": {
+              "temperatureMax": 55,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-02T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 36,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-03T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 35,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-04T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-05T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-06T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-07T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-08T00:00:00Z",
+            "values": {
+              "temperatureMax": 35,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-09T00:00:00Z",
+            "values": {
+              "temperatureMax": 34,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-10T00:00:00Z",
+            "values": {
+              "temperatureMax": 31,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-11T00:00:00Z",
+            "values": {
+              "temperatureMax": 31,
+              "temperatureMin": 26,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-12T00:00:00Z",
+            "values": {
+              "temperatureMax": 44,
+              "temperatureMin": 24,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-13T00:00:00Z",
+            "values": {
+              "temperatureMax": 50,
+              "temperatureMin": 31,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-14T00:00:00Z",
+            "values": {
+              "temperatureMax": 53,
+              "temperatureMin": 30,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-15T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-16T00:00:00Z",
+            "values": {
+              "temperatureMax": 36,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-17T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-18T00:00:00Z",
+            "values": {
+              "temperatureMax": 44,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-19T00:00:00Z",
+            "values": {
+              "temperatureMax": 45,
+              "temperatureMin": 34,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-20T00:00:00Z",
+            "values": {
+              "temperatureMax": 41,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-21T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 38,
+              "precipitationIntensity": 0.02,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-22T00:00:00Z",
+            "values": {
+              "temperatureMax": 39,
+              "temperatureMin": 28,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-23T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 21,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-24T00:00:00Z",
+            "values": {
+              "temperatureMax": 40,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.15,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-25T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 30,
+              "precipitationIntensity": 1.31,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-26T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 32,
+              "precipitationIntensity": 0.01,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-27T00:00:00Z",
+            "values": {
+              "temperatureMax": 38,
+              "temperatureMin": 29,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-28T00:00:00Z",
+            "values": {
+              "temperatureMax": 32,
+              "temperatureMin": 20,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-29T00:00:00Z",
+            "values": {
+              "temperatureMax": 42,
+              "temperatureMin": 22,
+              "precipitationIntensity": 0,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-30T00:00:00Z",
+            "values": {
+              "temperatureMax": 43,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.53,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          },
+          {
+            "startTime": "2021-01-31T00:00:00Z",
+            "values": {
+              "temperatureMax": 48,
+              "temperatureMin": 33,
+              "precipitationIntensity": 0.09,
+              "windSpeed": null,
+              "snowfall": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "stationsUsed": [
+    {
+      "id": "GHCND:US1KYHS0010",
+      "name": "HENDERSON 4.5 S, KY US",
+      "latitude": 37.776083,
+      "longitude": -87.593815,
+      "datacoverage": 0.9982
+    },
+    {
+      "id": "GHCND:USC00126151",
+      "name": "NEWBURGH LOCK AND DAM, KY US",
+      "latitude": 37.9325,
+      "longitude": -87.3744,
+      "datacoverage": 0.9919
+    },
+    {
+      "id": "GHCND:USC00122733",
+      "name": "EVANSVILLE FORT COUR, KY US",
+      "latitude": 37.96667,
+      "longitude": -87.58333,
+      "datacoverage": 0.9699
+    }
+  ],
+  "stationsCombined": {
+    "method": "Averaged values from multiple stations with data quality weighting",
+    "stationCount": 3,
+    "combinedDate": "2025-04-06T18:09:08.923Z"
+  }
+}

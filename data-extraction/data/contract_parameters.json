@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2025-04-06T21:35:43.298Z",
+  "counties": {
+    "Christian": {
+      "countyIndex": 0,
+      "thresholds": {
+        "drought": {
+          "eventType": 0,
+          "moderate": 5,
+          "severe": 7,
+          "extreme": 10
+        },
+        "heatWave": {
+          "eventType": 3,
+          "moderate": 4,
+          "severe": 6,
+          "extreme": 8
+        },
+        "excessiveRain": {
+          "eventType": 1,
+          "moderate": 3.7,
+          "severe": 4.7,
+          "extreme": 4.9
+        },
+        "wind": {
+          "eventType": 4,
+          "moderate": 20.4,
+          "severe": 24.4,
+          "extreme": 28.5
+        }
+      }
+    },
+    "Union": {
+      "countyIndex": 1,
+      "thresholds": {
+        "drought": {
+          "eventType": 0,
+          "moderate": 6,
+          "severe": 9,
+          "extreme": 12
+        },
+        "heatWave": {
+          "eventType": 3,
+          "moderate": 4,
+          "severe": 6,
+          "extreme": 7
+        },
+        "excessiveRain": {
+          "eventType": 1,
+          "moderate": 3.1,
+          "severe": 8,
+          "extreme": 8.2
+        },
+        "wind": {
+          "eventType": 4,
+          "moderate": 20.4,
+          "severe": 24.4,
+          "extreme": 28.5
+        }
+      }
+    },
+    "Todd": {
+      "countyIndex": 2,
+      "thresholds": {
+        "drought": {
+          "eventType": 0,
+          "moderate": 5,
+          "severe": 7,
+          "extreme": 9
+        },
+        "heatWave": {
+          "eventType": 3,
+          "moderate": 4,
+          "severe": 6,
+          "extreme": 8
+        },
+        "excessiveRain": {
+          "eventType": 1,
+          "moderate": 3.8,
+          "severe": 7.1,
+          "extreme": 7.3
+        },
+        "wind": {
+          "eventType": 4,
+          "moderate": 20.4,
+          "severe": 24.4,
+          "extreme": 28.5
+        }
+      }
+    },
+    "Henderson": {
+      "countyIndex": 3,
+      "thresholds": {
+        "drought": {
+          "eventType": 0,
+          "moderate": 5,
+          "severe": 9,
+          "extreme": 11
+        },
+        "heatWave": {
+          "eventType": 3,
+          "moderate": 3,
+          "severe": 6,
+          "extreme": 7
+        },
+        "excessiveRain": {
+          "eventType": 1,
+          "moderate": 3.1,
+          "severe": 7,
+          "extreme": 7.2
+        },
+        "wind": {
+          "eventType": 4,
+          "moderate": 20.4,
+          "severe": 24.4,
+          "extreme": 28.5
+        }
+      }
+    },
+    "Daviess": {
+      "countyIndex": 4,
+      "thresholds": {
+        "drought": {
+          "eventType": 0,
+          "moderate": 5,
+          "severe": 8,
+          "extreme": 11
+        },
+        "heatWave": {
+          "eventType": 3,
+          "moderate": 3,
+          "severe": 6,
+          "extreme": 7
+        },
+        "excessiveRain": {
+          "eventType": 1,
+          "moderate": 3.5,
+          "severe": 3.9,
+          "extreme": 4.1
+        },
+        "wind": {
+          "eventType": 4,
+          "moderate": 21,
+          "severe": 23.5,
+          "extreme": 24.5
+        }
+      }
+    },
+    "Warren": {
+      "countyIndex": 5,
+      "thresholds": {
+        "drought": {
+          "eventType": 0,
+          "moderate": 5,
+          "severe": 7,
+          "extreme": 10
+        },
+        "heatWave": {
+          "eventType": 3,
+          "moderate": 5,
+          "severe": 8,
+          "extreme": 9
+        },
+        "excessiveRain": {
+          "eventType": 1,
+          "moderate": 3.9,
+          "severe": 6.1,
+          "extreme": 6.3
+        },
+        "wind": {
+          "eventType": 4,
+          "moderate": 19.7,
+          "severe": 22.6,
+          "extreme": 23.6
+        }
+      }
+    }
+  }
+}
